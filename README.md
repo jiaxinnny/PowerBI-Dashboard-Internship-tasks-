@@ -18,8 +18,8 @@
     
 * Replaced page navigation with bookmark navigation to reduce the overall page count and improve visualization loading performance.
 
-Achievement: Reduced the page count from 30+ pages to 10+ pages. As a result, page-to-page loading time was significantly improved, from approximately 20 seconds to just 2 seconds after implementing bookmark navigation.
+* Achievement: Reduced the page count from 30+ pages to 10+ pages. As a result, page-to-page loading time was significantly improved, from approximately 20 seconds to just 2 seconds after implementing bookmark navigation.
 
-<img width="1327" height="728" alt="image" src="https://github.com/user-attachments/assets/26aeccf2-0f6a-4a8b-a331-b09caeecc9dd" />
-<img width="1327" height="732" alt="image" src="https://github.com/user-attachments/assets/bbaa7ba6-e61f-45ab-a390-b3d45e5d77bd" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/26aeccf2-0f6a-4a8b-a331-b09caeecc9dd" />
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/bbaa7ba6-e61f-45ab-a390-b3d45e5d77bd" />
 
