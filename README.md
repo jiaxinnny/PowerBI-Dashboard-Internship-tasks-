@@ -5,16 +5,16 @@
   
 * The original dashboard have few limitations:
   - Layout design not standardized
-    <img width="717" height="540" alt="image" src="https://github.com/user-attachments/assets/ce42b781-e323-4619-b191-42bcf7dcf9b0" />
+    <br><img width="717" height="440" alt="image" src="https://github.com/user-attachments/assets/ce42b781-e323-4619-b191-42bcf7dcf9b0" />
 
   - Inconsistent placement of slicer, field parameter, and bookmark bar
-    <img width="717" height="511" alt="image" src="https://github.com/user-attachments/assets/9ceac738-3fb0-45e4-9f30-20d57b10c7c8" />
+    <br><img width="717" height="411" alt="image" src="https://github.com/user-attachments/assets/9ceac738-3fb0-45e4-9f30-20d57b10c7c8" />
 
   - Unclear "Detail" button navigation
-    <img width="676" height="407" alt="image" src="https://github.com/user-attachments/assets/02a0b0e1-c9a3-4402-b56b-f9a287d2e357" />
+    <br><img width="676" height="407" alt="image" src="https://github.com/user-attachments/assets/02a0b0e1-c9a3-4402-b56b-f9a287d2e357" />
 
   - Extra blank colouring confused users
-    <img width="666" height="422" alt="image" src="https://github.com/user-attachments/assets/dab10b8a-318c-4bee-b57d-a03327e0df7b" />
+    <br><img width="666" height="422" alt="image" src="https://github.com/user-attachments/assets/dab10b8a-318c-4bee-b57d-a03327e0df7b" />
     
 * Replaced page navigation with bookmark navigation to reduce the overall page count and improve visualization loading performance.
 
