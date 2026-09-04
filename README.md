@@ -1,8 +1,8 @@
 # Power BI Dashboard (Internship tasks)
 
 ## Task 1: Dashboard Revamp
-<img width="490" height="320" alt="image" src="https://github.com/user-attachments/assets/26aeccf2-0f6a-4a8b-a331-b09caeecc9dd" />
-<img width="490" height="320" alt="image" src="https://github.com/user-attachments/assets/bbaa7ba6-e61f-45ab-a390-b3d45e5d77bd" />
+<img width="490" height="310" alt="image" src="https://github.com/user-attachments/assets/26aeccf2-0f6a-4a8b-a331-b09caeecc9dd" />
+<img width="490" height="310" alt="image" src="https://github.com/user-attachments/assets/bbaa7ba6-e61f-45ab-a390-b3d45e5d77bd" />
 
 * Mainly focus on UI design revamp
   
