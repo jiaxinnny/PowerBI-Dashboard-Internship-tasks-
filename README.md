@@ -19,9 +19,9 @@
   - Extra blank colouring confused users
     <br><img width="776" height="407" alt="image" src="https://github.com/user-attachments/assets/dab10b8a-318c-4bee-b57d-a03327e0df7b" />
     
-* Replaced page navigation with bookmark navigation to reduce the overall page count and improve visualization loading performance.
+* Replaced page navigation with bookmark navigation to reduce the overall page count and improve visualization loading performance and navigation speed.
 
-* Achievement: Reduced the page count from 30+ pages to 10+ pages. As a result, page-to-page loading time was significantly improved, from approximately 20 seconds to just 2 seconds after implementing bookmark navigation.
+* Achievement✅: Reduced the page count from 30+ pages to 10+ pages. As a result, navigation speed was significantly improved, from approximately 20 seconds to just 2 seconds after implementing bookmark navigation.
 
 
 
